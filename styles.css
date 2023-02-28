@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header { 
+    background-color: #1F2937;
+}
+
+img {
+    height: auto;
+    width: 100px;
+    float: left;
+}
+
+
+.navbar {
+    color: #E5E7EB;
+    font-size: 18px;
+    display: flex;
+    justify-content: right;
+    gap: 8px;
+    padding-right: 10px;
+}
+
+
+.title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: extra-bold;
+    margin-top: 100px;
+}
+
+.main {
+    height:auto;
+    width:500px;
+    float: right;
+}
+
+.intro {
+    text-align: left;
+    color: #E5E7EB;
+    font-size: 18px;
+}
